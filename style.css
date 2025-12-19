@@ -1,0 +1,72 @@
+
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #050045;
+      background: linear-gradient(180deg, rgb(5, 1, 53) 9%, rgba(9, 9, 121, 1) 62%, rgba(24, 136, 181, 1) 82%, rgba(13, 178, 212, 1) 98%);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 50px auto;
+      padding: 0 20px;
+    }
+
+    h1, h2 {
+      color:#9370DB;
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    h2 {
+      font-size: 2rem;
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+    }
+
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    li {
+      background-color: #fff;
+      padding: 15px;
+      margin-bottom: 12px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    a {
+      color: #2c3e50;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      background-color: #eee;
+      margin-top: 50px;
+    }
+    .I_am_programmist {
+      color:#9370DB 
+    }
+ 
